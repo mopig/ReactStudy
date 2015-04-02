@@ -1,0 +1,11 @@
+body {
+    padding: 20px
+}
+
+.th {
+    font-weight: bold;
+}
+
+.td {
+    display: inline-block;
+}
